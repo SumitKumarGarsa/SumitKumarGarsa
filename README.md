@@ -52,9 +52,8 @@ Brief description of Project 3. Highlight key features and technologies used.
 
 - [LinkedIn](Link to LinkedIn)
 - [Twitter](Link to Twitter)
-- <i className="ci ci-leetcode ci-2x"></i>
 - [Portfolio Website](Link to Portfolio)
-- [Email](mailto:your.email@example.com)
+- [<i className="ci ci-leetcode ci-2x"></i>](mailto:your.email@example.com)
 
 Feel free to connect with me on social media or reach out via email!
 
