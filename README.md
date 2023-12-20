@@ -1,8 +1,8 @@
-# Sumit Kumar Garsa's Full-Stack Web Developer Portfolio
+# [Your Name]'s Full-Stack Web Developer Portfolio
 
 ## 👋 Hello, World!
 
-Welcome to my GitHub repository! I'm [Sumit Kumar Garsa], a passionate and skilled full-stack web developer. This repository serves as a portfolio to showcase my projects and skills in the world of web development.
+Welcome to my GitHub repository! I'm [Your Name], a passionate and skilled full-stack web developer. This repository serves as a portfolio to showcase my projects and skills in the world of web development.
 
 ## 🚀 Featured Projects
 
@@ -53,7 +53,7 @@ Brief description of Project 3. Highlight key features and technologies used.
 - [LinkedIn](Link to LinkedIn)
 - [Twitter](Link to Twitter)
 - [Portfolio Website](Link to Portfolio)
-- [<i className="ci ci-leetcode ci-2x"></i>](mailto:your.email@example.com)
+- [Email](mailto:your.email@example.com)
 
 Feel free to connect with me on social media or reach out via email!
 
