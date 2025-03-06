@@ -29,7 +29,7 @@
 
 ---
 ### 📒 Resume Link
-<a href="[https://sumitkumargarsa.github.io/resume/](https://drive.google.com/drive/folders/1JmMf8RgtC6jrLtxF4GfQy9tJTavpQcfB)">
+<a href="https://drive.google.com/drive/folders/1JmMf8RgtC6jrLtxF4GfQy9tJTavpQcfB">
     <img src="https://img.shields.io/badge/Resume-View-blue?style=for-the-badge&logo=readthedocs" alt="Resume Badge">
 </a>
 
