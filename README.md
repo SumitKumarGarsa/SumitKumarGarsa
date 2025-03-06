@@ -28,6 +28,11 @@
 </p>
 
 ---
+### 📒 Resume Link
+<p align="left">
+   <a href="https://drive.google.com/file/d/1jKeSfHxW4EQmep_xcBLq8i6WTMzj7sfb/view?usp=drive_link" target="blank">Resume</a>
+</p>
+---
 
 ### 🛠️ Tools & Technologies:
 #### Languages:
