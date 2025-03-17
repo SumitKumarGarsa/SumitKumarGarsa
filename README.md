@@ -18,15 +18,22 @@
 ---
 
 ### 🌐 Connect with Me:
-<p align="left">
-  <a href="https://twitter.com/sumitkumargarsa" target="blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white" alt="Twitter" /></a>
-  <a href="https://linkedin.com/in/sumitkumargarsa" target="blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://kaggle.com/sumitkumargarsa" target="blank"><img src="https://img.shields.io/badge/Kaggle-%2320BEFF.svg?logo=kaggle&logoColor=white" alt="Kaggle" /></a>
-  <a href="https://www.youtube.com/@er.sumitkumargarsa" target="blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=youtube&logoColor=white" alt="YouTube" /></a>
-  <a href="https://leetcode.com/u/sumitkumargarsa/" target="blank"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white" alt="LeetCode" /></a>
-  <a href="https://auth.geeksforgeeks.org/user/sumitkumargarsa" target="blank"><img src="https://img.shields.io/badge/GeeksforGeeks-%23E4E4E4.svg?logo=geeksforgeeks&logoColor=2F8D46" alt="GeeksforGeeks" /></a>
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sumitkumargarsa&label=Profile%20views&color=0e75b6&style=flat" alt="sumitkumargarsa" /> </p>
 
+<p align="left"> <a href="https://twitter.com/sumitkumargarsa" target="blank"><img src="https://img.shields.io/twitter/follow/sumitkumargarsa?logo=twitter&style=for-the-badge" alt="sumitkumargarsa" /></a> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/sumitkumargarsa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sumitkumargarsa" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sumitkumargarsa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sumitkumargarsa" height="30" width="40" /></a>
+<a href="https://kaggle.com/sumitkumargarsa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sumitkumargarsa" height="30" width="40" /></a>
+<a href="https://instagram.com/sumitkumargarsa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sumitkumargarsa" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/er.sumitkumargarsa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="er.sumitkumargarsa" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/sumitkumargarsa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sumitkumargarsa" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/sumitkumargarsa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sumitkumargarsa" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/sumitkumargarsa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sumitkumargarsa" height="30" width="40" /></a>
+<a href="https://www.topcoder.com/members/sumitkumargarsa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="sumitkumargarsa" height="30" width="40" /></a>
+</p>
 ---
 ### 📒 Resume Link
 <a href="https://drive.google.com/drive/folders/1JmMf8RgtC6jrLtxF4GfQy9tJTavpQcfB">
