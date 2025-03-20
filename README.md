@@ -34,8 +34,9 @@
 <a href="https://auth.geeksforgeeks.org/user/sumitkumargarsa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sumitkumargarsa" height="30" width="40" /></a>
 <a href="https://www.topcoder.com/members/sumitkumargarsa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="sumitkumargarsa" height="30" width="40" /></a>
 </p>
----
-### 📒 Resume Link
+
+📒 Resume Link
+
 <a href="https://drive.google.com/drive/folders/1JmMf8RgtC6jrLtxF4GfQy9tJTavpQcfB">
     <img src="https://img.shields.io/badge/Resume-View-blue?style=for-the-badge&logo=readthedocs" alt="Resume Badge">
 </a>
