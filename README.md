@@ -110,7 +110,7 @@
 ### ☕ Support Me:
 <p>
   <br/><br/>
-  <a href="https://buymeacoffee.com/sumitkumargarsa" target="_blank">
+  <a href="buymeacoffee.com/sumitkumargarsa" target="_blank">
     <img src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&slug=sumitkumargarsa&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" alt="Buy me a coffee" />
   </a>
 </p>
