@@ -18,25 +18,30 @@
 ---
 
 ### 🌐 Connect with Me:
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sumitkumargarsa&label=Profile%20views&color=0e75b6&style=flat" alt="sumitkumargarsa" /> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=sumitkumargarsa&label=Profile%20views&color=0e75b6&style=flat" alt="sumitkumargarsa" />
+</p>
 
-<p align="left"> <a href="https://twitter.com/sumitkumargarsa" target="blank"><img src="https://img.shields.io/twitter/follow/sumitkumargarsa?logo=twitter&style=for-the-badge" alt="sumitkumargarsa" /></a> </p>
+<p align="left">
+  <a href="https://twitter.com/sumitkumargarsa" target="blank">
+    <img src="https://img.shields.io/twitter/follow/sumitkumargarsa?logo=twitter&style=for-the-badge" alt="Twitter Follow Badge" />
+  </a>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/sumitkumargarsa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sumitkumargarsa" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sumitkumargarsa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sumitkumargarsa" height="30" width="40" /></a>
-<a href="https://kaggle.com/sumitkumargarsa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sumitkumargarsa" height="30" width="40" /></a>
-<a href="https://instagram.com/sumitkumargarsa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sumitkumargarsa" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/er.sumitkumargarsa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="er.sumitkumargarsa" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/sumitkumargarsa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sumitkumargarsa" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sumitkumargarsa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sumitkumargarsa" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/sumitkumargarsa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sumitkumargarsa" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/sumitkumargarsa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="sumitkumargarsa" height="30" width="40" /></a>
+<a href="https://twitter.com/sumitkumargarsa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sumitkumargarsa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://kaggle.com/sumitkumargarsa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" /></a>
+<a href="https://instagram.com/sumitkumargarsa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/er.sumitkumargarsa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/sumitkumargarsa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/sumitkumargarsa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/sumitkumargarsa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksForGeeks" height="30" width="40" /></a>
+<a href="https://www.topcoder.com/members/sumitkumargarsa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="Topcoder" height="30" width="40" /></a>
 </p>
 
-📒 Resume Link
-
+📒 **Resume Link**  
 <a href="https://drive.google.com/drive/folders/1JmMf8RgtC6jrLtxF4GfQy9tJTavpQcfB">
     <img src="https://img.shields.io/badge/Resume-View-blue?style=for-the-badge&logo=readthedocs" alt="Resume Badge">
 </a>
@@ -91,8 +96,7 @@
 ### 📊 Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sumitkumargarsa&show_icons=true&theme=radical" alt="GitHub Stats" />
-<!--   <img src="https://github-readme-streak-stats.herokuapp.com?user=sumitkumargarsa&theme=radical&hide_border=true" alt="GitHub Streak" /> -->
-  <br/> <br/>
+  <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitkumargarsa&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
@@ -105,5 +109,11 @@
 
 ### ☕ Support Me:
 <p>
-  <a href="https://www.buymeacoffee.com/sumitkumargarsa"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=sumitkumargarsa&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" alt="Buy me a coffee" /></a>
+  <br/><br/>
+  <a href="https://buymeacoffee.com/sumitkumargarsa" target="_blank">
+    <img src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&slug=sumitkumargarsa&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" alt="Buy me a coffee" />
+  </a>
 </p>
+
+
+
