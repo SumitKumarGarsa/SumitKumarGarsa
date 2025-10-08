@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Sumit Kumar Garsa</h1>
-<h3 align="center">A Passionate Full-Stack Developer, Android Developer, and Cybersecurity Enthusiast from India 🚀</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3A77F7&background=FFFFFF00&center=true&vCenter=true&width=440&lines=Full-Stack+Developer;Android+Developer;Cybersecurity+Enthusiast;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
