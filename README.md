@@ -40,18 +40,18 @@
 
 #### Languages:
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
+  <img width="25" height="25" alt="Image" src="https://github.com/user-attachments/assets/b341650f-7101-4d62-a021-8aea442025dc" />
+  <img width="25" height="25" alt="Image" src="https://github.com/user-attachments/assets/a36b51f5-66fe-4809-88c9-8051fa2a4f06" />
+  <img width="25" height="25" alt="Image" src="https://github.com/user-attachments/assets/299f631e-6853-479f-ac36-45dc93428ee8" />
+  <img width="25" height="25" alt="Image" src="https://github.com/user-attachments/assets/6d05b46d-649a-4beb-bfb0-8818ece1a37d" />
+<img width="25" height="25" alt="Image" src="https://github.com/user-attachments/assets/1907fcf1-273e-4fa5-abe5-e03e6511bd2e" />
+<img width="25" height="25" alt="Image" src="https://github.com/user-attachments/assets/16cf1565-50c6-4d32-81bf-114f295828df" />
+  <img width="25" height="25" alt="Image" src="https://github.com/user-attachments/assets/e9134016-d08e-49a7-952c-3664adefb319" />
 </p>
 
 #### Frameworks & Libraries:
 <p align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
+  <img width="25" height="25" alt="Image" src="https://github.com/user-attachments/assets/a150b4f1-284e-4d4f-8ebc-0e0fc6439b45" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
