@@ -12,7 +12,7 @@
 - 🔭 I’m currently working on **E-commerce solutions** integrating scalable full-stack development with **cybersecurity best practices**.  
 - 🌱 Expanding my skillset in **DevOps and Cloud Infrastructure** to create robust and efficient applications.  
 - 💬 Ask me about **MERN Stack, Android Development, and Cybersecurity**.  
-- 📫 How to reach me: **sumitkumargarsa@gmail.com**  
+- 📫 How to reach me: **ersumitkumargarsa@gmail.com**  
 
 ---
 
