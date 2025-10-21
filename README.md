@@ -25,7 +25,7 @@
   <a href="https://www.youtube.com/c/er.sumitkumargarsa"><img width="30" height="30" alt="Image" src="https://github.com/user-attachments/assets/b2a70354-a298-48e5-b4a9-e587d4979f76" /></a>
   <a href="https://www.codechef.com/users/sumitkumargarsa"><img width="80" height="45" alt="Image" src="https://github.com/user-attachments/assets/3e9f0424-a156-4c43-b138-dcd3e28efd21" /></a>
   <a href="https://www.leetcode.com/sumitkumargarsa"><img width="30" height="30" alt="Image" src="https://github.com/user-attachments/assets/01660ca4-d77e-4001-9dbd-65988744cddc" /></a>
-  <a href="https://auth.geeksforgeeks.org/user/sumitkumargarsa"><img width="80" height="45" alt="Image" src="https://github.com/user-attachments/assets/ce0257f5-4e2f-4d91-b10d-8c0459690e1b" /></a>
+  <a href="https://auth.geeksforgeeks.org/user/sumitkumargarsa"><img width="45" height="25" alt="Image" src="https://github.com/user-attachments/assets/ce0257f5-4e2f-4d91-b10d-8c0459690e1b" /></a>
   <a href="https://www.topcoder.com/members/sumitkumargarsa"><img src="https://img.shields.io/badge/TopCoder-000000?style=for-the-badge&logo=topcoder&logoColor=white" alt="TopCoder"></a>
 </p>
 
