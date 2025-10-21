@@ -18,14 +18,14 @@
 
 ### 🌐 Connect with Me:
 <p align="center">
-  <a href="https://twitter.com/sumitkumargarsa"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
-  <a href="https://linkedin.com/in/sumitkumargarsa"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://kaggle.com/sumitkumargarsa"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"></a>
-  <a href="https://instagram.com/sumitkumargarsa"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-  <a href="https://www.youtube.com/c/er.sumitkumargarsa"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
-  <a href="https://www.codechef.com/users/sumitkumargarsa"><img src="https://img.shields.io/badge/CodeChef-B3A2D6?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"></a>
-  <a href="https://www.leetcode.com/sumitkumargarsa"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"></a>
-  <a href="https://auth.geeksforgeeks.org/user/sumitkumargarsa"><img src="https://img.shields.io/badge/GeeksforGeeks-F0A000?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"></a>
+  <a href="https://twitter.com/sumitkumargarsa"><img width="30" height="30" alt="Image" src="https://github.com/user-attachments/assets/c3e0fa34-4e5e-47f9-87df-270b68077851" /></a>
+  <a href="https://linkedin.com/in/sumitkumargarsa"><img width="30" height="30" alt="Image" src="https://github.com/user-attachments/assets/5f3a039d-ad3e-46d7-bb3e-3a6dbec40b09" /></a>
+  <a href="https://kaggle.com/sumitkumargarsa"><img width="30" height="30" alt="Image" src="https://github.com/user-attachments/assets/e4f32ed2-34ff-4439-a11e-6251159d4e93" /></a>
+  <a href="https://instagram.com/sumitkumargarsa"><img width="30" height="30" alt="Image" src="https://github.com/user-attachments/assets/a2c5a4c6-d86c-4b1d-a2d7-e369ada4ece5" /></a>
+  <a href="https://www.youtube.com/c/er.sumitkumargarsa"><img width="30" height="30" alt="Image" src="https://github.com/user-attachments/assets/b2a70354-a298-48e5-b4a9-e587d4979f76" /></a>
+  <a href="https://www.codechef.com/users/sumitkumargarsa"><img width="80" height="45" alt="Image" src="https://github.com/user-attachments/assets/3e9f0424-a156-4c43-b138-dcd3e28efd21" /></a>
+  <a href="https://www.leetcode.com/sumitkumargarsa"><img width="30" height="30" alt="Image" src="https://github.com/user-attachments/assets/01660ca4-d77e-4001-9dbd-65988744cddc" /></a>
+  <a href="https://auth.geeksforgeeks.org/user/sumitkumargarsa"><img width="80" height="45" alt="Image" src="https://github.com/user-attachments/assets/ce0257f5-4e2f-4d91-b10d-8c0459690e1b" /></a>
   <a href="https://www.topcoder.com/members/sumitkumargarsa"><img src="https://img.shields.io/badge/TopCoder-000000?style=for-the-badge&logo=topcoder&logoColor=white" alt="TopCoder"></a>
 </p>
 
