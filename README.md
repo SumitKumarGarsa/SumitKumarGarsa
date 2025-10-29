@@ -43,38 +43,48 @@
   <img width="30" height="30" alt="Image" src="https://github.com/user-attachments/assets/a36b51f5-66fe-4809-88c9-8051fa2a4f06" />
   <img width="30" height="30" alt="Image" src="https://github.com/user-attachments/assets/299f631e-6853-479f-ac36-45dc93428ee8" />
   <img width="30" height="30" alt="Image" src="https://github.com/user-attachments/assets/6d05b46d-649a-4beb-bfb0-8818ece1a37d" />
-<img width="30" height="30" alt="Image" src="https://github.com/user-attachments/assets/1907fcf1-273e-4fa5-abe5-e03e6511bd2e" />
-<img width="30" height="30" alt="Image" src="https://github.com/user-attachments/assets/16cf1565-50c6-4d32-81bf-114f295828df" />
+  <img width="30" height="30" alt="Image" src="https://github.com/user-attachments/assets/1907fcf1-273e-4fa5-abe5-e03e6511bd2e" />
+  <img width="30" height="30" alt="Image" src="https://github.com/user-attachments/assets/16cf1565-50c6-4d32-81bf-114f295828df" />
   <img width="30" height="30" alt="Image" src="https://github.com/user-attachments/assets/e9134016-d08e-49a7-952c-3664adefb319" />
+  <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/d2233723-6eb2-4119-9ab3-d57f56617831" />
+  <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/757df2f1-83eb-47d3-b016-d496016cdf47" />
+
+
 
 #### Frameworks & Libraries:
-  <img width="30" height="30" alt="Image" src="https://github.com/user-attachments/assets/a150b4f1-284e-4d4f-8ebc-0e0fc6439b45" />
+  <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/ee68db9e-1879-4aa9-a505-57a1eed671a9" />
   <img width="30" height="30" alt="Image" src="https://github.com/user-attachments/assets/9af40a8a-2b18-4543-ba9c-672179bb5b02" />
   <img width="30" height="30" alt="Image" src="https://github.com/user-attachments/assets/3f889bd3-b028-40b1-a4bc-bed652feb4d2" />
   <img width="30" height="30" alt="Image" src="https://github.com/user-attachments/assets/b8b0a9a0-2733-4dbd-8f19-b42ce56d1b79" />
 <img width="30" height="30" alt="Image" src="https://github.com/user-attachments/assets/fc85467f-9612-4f95-974e-aa5ec5bb2753" />
 
 #### Databases:
-<p align="center">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-  <img src="https://img.shields.io/badge/MySQL-00A6D5?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-</p>
+  <img width="30" height="30" alt="Image" src="https://github.com/user-attachments/assets/c861b188-812a-45be-a432-9569a6ba7e2b" />
+  <img width="30" height="30" alt="Image" src="https://github.com/user-attachments/assets/f713db2c-ef8c-4bd7-8b16-bec8d67fef03" />
+<img width="30" height="30" alt="Image" src="https://github.com/user-attachments/assets/26fb1b08-b3cb-4415-a965-73ec14af4af5" />
+<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/4fcad3d8-bd0c-4b60-b878-078799b19ef7" />
+
 
 #### DevOps & Cloud:
-<p align="center">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP">
-</p>
+
+<img width="30" height="30" alt="Image" src="https://github.com/user-attachments/assets/e8573772-3252-4a0c-b380-248053e4b784" />
+<img width="30" height="30" alt="Image" src="https://github.com/user-attachments/assets/4f54c346-d890-4604-81ec-9a672f37d948" />
+<img width="30" height="30" alt="Image" src="https://github.com/user-attachments/assets/3e8f6ae3-0795-4924-add7-9ae9a5a88a26" />
+<img width="30" height="30" alt="Image" src="https://github.com/user-attachments/assets/a6d04975-3e3a-4b79-b765-5006b3382a55" />
+
 
 #### Tools & Platforms:
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
-</p>
+<img width="30" height="30" alt="Image" src="https://github.com/user-attachments/assets/8b6d04db-3bd8-42c1-9254-8dda38a8bce7" />
+<img width="30" height="30" alt="Image" src="https://github.com/user-attachments/assets/6334fb9e-e89b-4149-8ee3-953c483f66d7" />
+<img width="30" height="30" alt="Image" src="https://github.com/user-attachments/assets/af9a282a-c5df-4fbb-a6b1-0029fd807931" />
+<img width="30" height="30" alt="Image" src="https://github.com/user-attachments/assets/7f9ec92a-6192-4abf-8519-fb700ca71cc1" />
+<img width="30" height="30" alt="Image" src="https://github.com/user-attachments/assets/d4fd14b7-5a21-47c1-8009-e31e73881ef4" />
+<img width="30" height="30" alt="Image" src="https://github.com/user-attachments/assets/6d5a7a00-538a-421a-8aa2-e72a07bb7dd4" />
+<img width="30" height="30" alt="Image" src="https://github.com/user-attachments/assets/7bfeb44a-1744-4100-94c5-9e1eeff3328e" />
+<img width="30" height="30" alt="Image" src="https://github.com/user-attachments/assets/92aa0f34-cc39-434b-84cc-5d5ebf0d9560" />
+<img width="30" height="30" alt="Image" src="https://github.com/user-attachments/assets/6fefaa2d-69e5-499b-97ab-826bd322951b" />
+<img width="30" height="30" alt="Image" src="https://github.com/user-attachments/assets/07f7dcdd-fdb6-497e-8a2e-c5f9c72058b1" />
+<img width="30" height="30" alt="Image" src="https://github.com/user-attachments/assets/32efe2fe-723f-4e25-88b0-843714b31dcc" />
 
 ---
 
