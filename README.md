@@ -48,13 +48,11 @@
   <img width="30" height="30" alt="Image" src="https://github.com/user-attachments/assets/e9134016-d08e-49a7-952c-3664adefb319" />
 
 #### Frameworks & Libraries:
-<p align="center">
   <img width="30" height="30" alt="Image" src="https://github.com/user-attachments/assets/a150b4f1-284e-4d4f-8ebc-0e0fc6439b45" />
   <img width="30" height="30" alt="Image" src="https://github.com/user-attachments/assets/9af40a8a-2b18-4543-ba9c-672179bb5b02" />
   <img width="30" height="30" alt="Image" src="https://github.com/user-attachments/assets/3f889bd3-b028-40b1-a4bc-bed652feb4d2" />
   <img width="30" height="30" alt="Image" src="https://github.com/user-attachments/assets/b8b0a9a0-2733-4dbd-8f19-b42ce56d1b79" />
 <img width="30" height="30" alt="Image" src="https://github.com/user-attachments/assets/fc85467f-9612-4f95-974e-aa5ec5bb2753" />
-</p>
 
 #### Databases:
 <p align="center">
