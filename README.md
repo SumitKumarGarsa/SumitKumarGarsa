@@ -104,7 +104,5 @@
 
 ### ☕ Support Me:
 <p align="center">
-  <a href="https://buymeacoffee.com/sumitkumargarsa" target="_blank">
-    <img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=000000" alt="Buy me a coffee">
-  </a>
+  <a href="https://www.buymeacoffee.com/sumitkumargarsa" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 </p>
