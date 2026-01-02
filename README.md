@@ -103,6 +103,9 @@
 ---
 
 ### ☕ Support Me:
-<p align="center">
-  <a href="https://buymeacoffee.com/sumitkumargarsa" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
-</p>
+<p><a href="https://ko-fi.com/sumitkumargarsa"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="sumitkumargarsa" /></a></p><br><br>
+
+
+
+
+
