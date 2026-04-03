@@ -1,8 +1,8 @@
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/e5793d36-826b-4340-9a61-3e3112de0e43" />
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3A77F7&background=FFFFFF00&center=true&vCenter=true&width=440&lines=A+Full-Stack+Developer;Android+Developer;Cybersecurity+Enthusiast;Always+Learning%F0%9F%93%9A" alt="Typing SVG" />
 </p>
+
+<img width="1280" height="640" alt="Image" src="https://github.com/user-attachments/assets/8b93c18c-bf78-433e-a15d-ff3f258061bf" />
 
 ---
 
