@@ -1,6 +1,6 @@
-<h1>Sumit Kumar Garsa</h1>
+<h1 align="center">Sumit Kumar Garsa</h1>
 
-<p>
+<p align="center">
   <b>Full Stack Developer → Web Security Engineer</b><br/>
   Building applications and testing how they fail under real-world conditions
 </p>
@@ -18,16 +18,26 @@
 
 ## 🧠 What I Actually Do
 
-- Build applications → Test them like an attacker  
-- Break authentication systems → Identify design flaws  
-- Analyze APIs → Strengthen validation & access control  
-- Simulate real-world exploits → Document → Fix → Harden  
+- Build applications → **Test them like an attacker**  
+- Break authentication systems → **Identify design flaws**  
+- Analyze APIs → **Strengthen validation & access control**  
+- Simulate real-world exploits → **Document → Fix → Harden**  
+
+---
+
+## 📊 GitHub Insights
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sumitkumargarsa&show_icons=true&theme=tokyonight" height="160"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitkumargarsa&layout=compact&theme=tokyonight" height="160"/>
+</p>
 
 ---
 
 ## 🛠 Tech Stack
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,python,git,linux,postman" />
 </p>
 
@@ -52,29 +62,31 @@
 
 ---
 
-## 📊 GitHub Insights
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=sumitkumargarsa&show_icons=true&theme=tokyonight" height="160"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitkumargarsa&layout=compact&theme=tokyonight" height="160"/>
-</p>
-
----
-
 ## 🌐 Connect
 
-<p>
+<p align="center">
   <a href="https://linkedin.com/in/sumitkumargarsa">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="35"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://twitter.com/sumitkumargarsa">
-    <img src="https://skillicons.dev/icons?i=twitter" height="40"/>
+    <img src="https://cdn.simpleicons.org/twitter/1DA1F2" height="35"/>
   </a>
   &nbsp;&nbsp;
   <a href="mailto:ersumitkumargarsa@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" height="35"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://leetcode.com/sumitkumargarsa">
+    <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="35"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://auth.geeksforgeeks.org/user/sumitkumargarsa">
+    <img src="https://cdn.simpleicons.org/geeksforgeeks/0F9D58" height="35"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://codeforces.com/profile/sumitkumargarsa">
+    <img src="https://cdn.simpleicons.org/codeforces/1F8ACB" height="35"/>
   </a>
 </p>
 
