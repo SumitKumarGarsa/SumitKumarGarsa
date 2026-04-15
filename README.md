@@ -1,6 +1,6 @@
-<h1 align="center">Sumit Kumar Garsa</h1>
+<h1>Sumit Kumar Garsa</h1>
 
-<p align="center">
+<p>
   <b>Full Stack Developer → Web Security Engineer</b><br/>
   Building applications and testing how they fail under real-world conditions
 </p>
@@ -27,7 +27,7 @@
 
 ## 🛠 Tech Stack
 
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,python,git,linux,postman" />
 </p>
 
@@ -54,8 +54,9 @@
 
 ## 📊 GitHub Insights
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=sumitkumargarsa&show_icons=true&theme=tokyonight" height="160"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitkumargarsa&layout=compact&theme=tokyonight" height="160"/>
 </p>
 
@@ -63,10 +64,18 @@
 
 ## 🌐 Connect
 
-<p align="center">
-  <a href="https://linkedin.com/in/sumitkumargarsa">LinkedIn</a> •
-  <a href="https://twitter.com/sumitkumargarsa">Twitter</a> •
-  <a href="mailto:ersumitkumargarsa@gmail.com">Email</a>
+<p>
+  <a href="https://linkedin.com/in/sumitkumargarsa">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://twitter.com/sumitkumargarsa">
+    <img src="https://skillicons.dev/icons?i=twitter" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:ersumitkumargarsa@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+  </a>
 </p>
 
 ---
