@@ -66,15 +66,17 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/sumitkumargarsa">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="35"/>
+    <img alt="image" src="https://github.com/user-attachments/assets/11cbbc02-9098-49db-a89f-bf9ce267e404" height="35" />
+
   </a>
   &nbsp;&nbsp;
   <a href="https://twitter.com/sumitkumargarsa">
-    <img src="https://cdn.simpleicons.org/twitter/1DA1F2" height="35"/>
+    <img alt="image" src="https://github.com/user-attachments/assets/7532d140-0c5e-4d5e-9d33-e85db7ce9f04" height="35" />
+
   </a>
   &nbsp;&nbsp;
   <a href="mailto:ersumitkumargarsa@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" height="35"/>
+    <img alt="image" src="https://github.com/user-attachments/assets/c2c63224-9537-44a7-ac22-03dd6258342b" height="35" />
   </a>
   &nbsp;&nbsp;
   <a href="https://leetcode.com/sumitkumargarsa">
