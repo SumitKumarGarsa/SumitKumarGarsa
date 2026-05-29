@@ -21,7 +21,7 @@
 ```yaml
 name     : Sumit Kumar Garsa
 role     : Full Stack Developer → Web Security Engineer
-location : India
+location : 
 focus    :
   - Security-first full stack architecture
   - Web vulnerability research (XSS · SQLi · Auth flaws · API abuse)
