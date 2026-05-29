@@ -21,7 +21,7 @@
 ```yaml
 name     : Sumit Kumar Garsa
 role     : Full Stack Developer → Web Security Engineer
-location : 
+location : Hidden due to privacy
 focus    :
   - Security-first full stack architecture
   - Web vulnerability research (XSS · SQLi · Auth flaws · API abuse)
@@ -88,12 +88,25 @@ mantra   : "Build it. Break it. Harden it."
 ## `git log --stat`
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SumitKumarGarsa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SumitKumarGarsa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" height="165"/>
+
+<!-- GitHub Stats — using githubstats.me as reliable alternative -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SumitKumarGarsa&theme=github_dark" width="95%" alt="Profile Summary"/>
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SumitKumarGarsa&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF" height="165"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SumitKumarGarsa&theme=github_dark" height="160" alt="Stats"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SumitKumarGarsa&theme=github_dark" height="160" alt="Top Languages"/>
+
+</div>
+
+<div align="center">
+
+<!-- Streak — demolab (official maintained source) -->
+<img src="https://streak-stats.demolab.com?user=SumitKumarGarsa&theme=tokyonight-duo&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF&sideLabels=C9D1D9&dates=C9D1D9" height="160" alt="GitHub Streak"/>
+
 </div>
 
 ---
